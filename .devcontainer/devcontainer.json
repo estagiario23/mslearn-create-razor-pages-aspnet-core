@@ -7,5 +7,10 @@
 	},
 
 	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-dotnettools.csharp"
+			]
+		}
 	}
 }
